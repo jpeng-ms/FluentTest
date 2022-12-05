@@ -1,0 +1,55 @@
+PODS:
+  - MicrosoftFluentUI/ActivityIndicator_ios (0.8.8):
+    - MicrosoftFluentUI/Core_ios
+  - MicrosoftFluentUI/Avatar_ios (0.8.8):
+    - MicrosoftFluentUI/Core_ios
+  - MicrosoftFluentUI/AvatarGroup_ios (0.8.8):
+    - MicrosoftFluentUI/Avatar_ios
+  - MicrosoftFluentUI/BottomSheet_ios (0.8.8):
+    - MicrosoftFluentUI/Obscurable_ios
+    - MicrosoftFluentUI/ResizingHandleView_ios
+  - MicrosoftFluentUI/Button_ios (0.8.8):
+    - MicrosoftFluentUI/Core_ios
+  - MicrosoftFluentUI/Core_ios (0.8.8)
+  - MicrosoftFluentUI/Drawer_ios (0.8.8):
+    - MicrosoftFluentUI/Obscurable_ios
+    - MicrosoftFluentUI/ResizingHandleView_ios
+    - MicrosoftFluentUI/Separator_ios
+    - MicrosoftFluentUI/TouchForwardingView_ios
+  - MicrosoftFluentUI/Label_ios (0.8.8):
+    - MicrosoftFluentUI/Core_ios
+  - MicrosoftFluentUI/Obscurable_ios (0.8.8):
+    - MicrosoftFluentUI/Core_ios
+  - MicrosoftFluentUI/PopupMenu_ios (0.8.8):
+    - MicrosoftFluentUI/Drawer_ios
+    - MicrosoftFluentUI/Label_ios
+    - MicrosoftFluentUI/Separator_ios
+    - MicrosoftFluentUI/TableView_ios
+  - MicrosoftFluentUI/ResizingHandleView_ios (0.8.8):
+    - MicrosoftFluentUI/Core_ios
+  - MicrosoftFluentUI/Separator_ios (0.8.8):
+    - MicrosoftFluentUI/Core_ios
+  - MicrosoftFluentUI/TableView_ios (0.8.8):
+    - MicrosoftFluentUI/Label_ios
+    - MicrosoftFluentUI/Separator_ios
+  - MicrosoftFluentUI/TouchForwardingView_ios (0.8.8):
+    - MicrosoftFluentUI/Core_ios
+
+DEPENDENCIES:
+  - MicrosoftFluentUI/ActivityIndicator_ios (= 0.8.8)
+  - MicrosoftFluentUI/Avatar_ios (= 0.8.8)
+  - MicrosoftFluentUI/AvatarGroup_ios (= 0.8.8)
+  - MicrosoftFluentUI/BottomSheet_ios (= 0.8.8)
+  - MicrosoftFluentUI/Button_ios (= 0.8.8)
+  - MicrosoftFluentUI/PopupMenu_ios (= 0.8.8)
+
+SPEC REPOS:
+  trunk:
+    - MicrosoftFluentUI
+
+SPEC CHECKSUMS:
+  MicrosoftFluentUI: 0f3269836845fe12be1a9ac3163c6e5656477d55
+
+PODFILE CHECKSUM: b2e3159cc508c3e07702513ca57b45abcd2dcf34
+
+COCOAPODS: 1.11.3

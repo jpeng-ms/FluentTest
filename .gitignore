@@ -1,3 +1,5 @@
-
 FluentTest/.DS_Store
 .DS_Store
+build/
+Pods/
+FluentTest.xcworkspace/

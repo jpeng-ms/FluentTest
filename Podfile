@@ -6,11 +6,11 @@ target 'FluentTest' do
   use_frameworks!
 
   # Pods for FluentTest
-  pod 'MicrosoftFluentUI/Avatar_ios', '0.8.8'
-  pod 'MicrosoftFluentUI/BottomSheet_ios', '0.8.8'
-  pod 'MicrosoftFluentUI/Button_ios', '0.8.8'
-  pod 'MicrosoftFluentUI/PopupMenu_ios', '0.8.8'
-  pod 'MicrosoftFluentUI/ActivityIndicator_ios', '0.8.8'
-  pod 'MicrosoftFluentUI/AvatarGroup_ios', '0.8.8'
+  pod 'MicrosoftFluentUI/Avatar_ios', '0.10.1'
+  pod 'MicrosoftFluentUI/BottomSheet_ios', '0.10.1'
+  pod 'MicrosoftFluentUI/Button_ios', '0.10.1'
+  pod 'MicrosoftFluentUI/PopupMenu_ios', '0.10.1'
+  pod 'MicrosoftFluentUI/ActivityIndicator_ios', '0.10.1'
+  pod 'MicrosoftFluentUI/AvatarGroup_ios', '0.10.1'
 
 end
